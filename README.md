@@ -124,6 +124,7 @@ Contributions, issues, and feature requests are welcome. Feel free to check the 
 Lifeline AI is built by a team passionate about using technology to close the gap between crisis and response.
 
 | Name            |               Role                      |  GitHub |
+
 |   Arnav more | Frontend & Backend, AI Integration / Team Lead  | @arnav-alt-ai |
 
 |   palak moundekarpalak |  UI Design, deployement| @moundekarpalak |
