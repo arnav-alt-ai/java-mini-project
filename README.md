@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  🔗 <b>Live Demo:</b> [  https://java-mini-project-two.vercel.app/](#)
+  🔗 <b>Live Demo:</b> [ https://java-mini-project-two.vercel.app/]
 </p>
 
 ---
