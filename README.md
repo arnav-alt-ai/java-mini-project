@@ -89,18 +89,17 @@ Lifeline AI is built on one rule: **a stressed user should never have to think a
 ## 📸 Screenshots
 
 | SOS Dashboard | AI Assistant | Report Wizard |
-|---|---|---|
-| <img width="1026" height="785" alt="image" src="https://github.com/user-attachments/assets/c2df78df-9bbd-48f1-b4be-e1657fe13d13" />
-| <img width="1637" height="725" alt="image" src="https://github.com/user-attachments/assets/ca280223-f777-414d-91c3-94bc15cdb859" />
-|  <img width="956" height="837" alt="image" src="https://github.com/user-attachments/assets/40408d1c-3896-4c24-84be-9501bc63335d" />
+|<img width="917" height="727" alt="image" src="https://github.com/user-attachments/assets/6acc41c1-258a-48a4-bf78-aa915e48b57e" />
+|<img width="1567" height="677" alt="image" src="https://github.com/user-attachments/assets/db9a376a-1780-46be-a3d5-42c3093026df" />
+|<img width="888" height="768" alt="image" src="https://github.com/user-attachments/assets/6ed82c28-78a2-49a6-98bc-e9bae966643e" />
 |
+
 
 | Safety Check-In & Contacts | Nearby Services Map |
-|---|---|
-| <img width="1657" height="542" alt="image" src="https://github.com/user-attachments/assets/de8af2b1-915b-4e3c-8846-a92521b2a515" />
-| <img width="1648" height="770" alt="image" src="https://github.com/user-attachments/assets/dac3f408-e70d-4bd5-9b08-8ccc0b31275c" />
+|<img width="1586" height="457" alt="image" src="https://github.com/user-attachments/assets/3f47370b-a6f7-4f58-b06f-155d175405f1" />
+|<img width="1587" height="722" alt="image" src="https://github.com/user-attachments/assets/7155d77b-af63-4053-a19a-d54957bb8a2f" />
 |
-
+ 
 ---
 ## 🗺️ Roadmap
 
@@ -125,15 +124,15 @@ Contributions, issues, and feature requests are welcome. Feel free to check the 
 Lifeline AI is built by a team passionate about using technology to close the gap between crisis and response.
 
 | Name | Role | GitHub |
-|---|---|---|
-| <!-- Your Name --> | <!-- e.g. Full-Stack Developer / Team Lead --> | (#) |
-| <!-- Teammate 2 --> | <!-- e.g. Frontend / UI Design --> | [@username](#) |
-| <!-- Teammate 3 --> | <!-- e.g. Backend / Database --> | [@username](#) |
-| <!-- Teammate 4 --> | <!-- e.g. AI Integration --> | [@username](#) |
+|   Arnav more | Frontend & Backend, AI Integration / Team Lead  | @arnav-alt-ai |
+|   palak moundekarpalak |  UI Design, deployement| @moundekarpalak |
+|   Anushka nawale | Research & ideas  | @anushkanwale09 |
+|   Sharvil Nagdeote |  PPT & Research  | @Sharvil Nagdeote |
 
 > Built as part of a Java Mini Project — combining real-world emergency-response UX with core OOP principles (Encapsulation, Inheritance, Polymorphism, Abstraction).
 
----
+<img width="1076" height="392" alt="image" src="https://github.com/user-attachments/assets/c2da44ad-7df2-4b8a-991e-367b6ee7b2d9" />
+
 
 ## 📄 License
 
