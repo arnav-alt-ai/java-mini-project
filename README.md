@@ -123,16 +123,17 @@ Contributions, issues, and feature requests are welcome. Feel free to check the 
 
 Lifeline AI is built by a team passionate about using technology to close the gap between crisis and response.
 
-| Name | Role | GitHub |
+| Name            |               Role                      |  GitHub |
 |   Arnav more | Frontend & Backend, AI Integration / Team Lead  | @arnav-alt-ai |
+
 |   palak moundekarpalak |  UI Design, deployement| @moundekarpalak |
+
 |   Anushka nawale | Research & ideas  | @anushkanwale09 |
+
 |   Sharvil Nagdeote |  PPT & Research  | @Sharvil Nagdeote |
 
+
 > Built as part of a Java Mini Project — combining real-world emergency-response UX with core OOP principles (Encapsulation, Inheritance, Polymorphism, Abstraction).
-
-<img width="1076" height="392" alt="image" src="https://github.com/user-attachments/assets/c2da44ad-7df2-4b8a-991e-367b6ee7b2d9" />
-
 
 ## 📄 License
 
